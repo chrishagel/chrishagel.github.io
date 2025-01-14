@@ -5,30 +5,16 @@ order: 5
 ---
 
 
-This site was lovingly crafted using the following technologies:
+This site was built by the author using [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy), a fantastic Jekyll theme. It’s hosted on GitHub Pages with automatic deployment powered by Git and GitHub Actions. For local development and content creation, I used VS Code, Docker, the Dev Containers extension, and Markdown.
 
-## Static Site Generator
-- **[Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)**: A minimal, modern, and performance-focused Jekyll theme.
+Chirpy leverages several amazing open-source projects under the hood. 
 
-## Hosting
-- **[GitHub Pages](https://pages.github.com/)**: Free hosting for static websites, seamlessly integrated with GitHub repositories.
+[Jekyll](https://jekyllrb.com/): For static site generation.
+[MathJax](https://www.mathjax.org/): For rendering beautiful math equations.
+[Font Awesome](https://fontawesome.com/): For stylish social and navigation icons.
+[Bootstrap](https://getbootstrap.com/): For responsive, mobile-friendly design.
 
-## Styling and Icons
-- **[Font Awesome](https://fontawesome.com/)**: For the social and navigation icons.
-- **[Bootstrap](https://getbootstrap.com/)**: For responsive design and styling.
+The site was tested locally using Google Chrome on a Windows 11 machine.
 
-## Rendering and Performance
-- **[Jekyll](https://jekyllrb.com/)**: A static site generator built with Ruby.
-- **[MathJax](https://www.mathjax.org/)** or **[KaTeX](https://katex.org/)** (if used): For rendering mathematical equations.
-
-## Version Control
-- **[Git](https://git-scm.com/)**: For managing source code.
-- **[GitHub](https://github.com/)**: For collaborative development and repository hosting.
-
-## Browser Optimization
-- **[Google Chrome Developer Tools](https://developer.chrome.com/docs/devtools/)**: For testing and debugging.
-
----
-
-Thank you for visiting this site and for supporting the open-source ecosystem that made it possible!
+Thank you for visiting and for supporting the open-source ecosystem that makes this possible.
 
