@@ -76,3 +76,4 @@ print("Samples:", rv.rvs(size=10))
 # Mean and variance
 print("Mean:", rv.mean())
 print("Variance:", rv.var())
+```

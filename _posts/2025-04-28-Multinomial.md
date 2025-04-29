@@ -61,3 +61,4 @@ p = [0.2, 0.3, 0.5]
 # Sample a single multinomial outcome
 sample = multinomial(n, p)
 print("Sample:", sample)
+```

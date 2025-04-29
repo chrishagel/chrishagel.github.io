@@ -73,3 +73,4 @@ print("P(X=0):", rv.pmf(0))
 # Mean and variance
 print("Mean:", rv.mean())
 print("Variance:", rv.var())
+```

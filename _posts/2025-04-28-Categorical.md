@@ -57,3 +57,4 @@ print("Sampled index (0-based):", sample)
 # Sample 10 outcomes
 samples = np.random.choice(len(p), size=10, p=p)
 print("Samples:", samples)
+```
